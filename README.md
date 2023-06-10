@@ -1,3 +1,6 @@
+Baixando as dependencias do projeto
+### npm install
+
 Iniciar Projeto 
 ### npm init
 
