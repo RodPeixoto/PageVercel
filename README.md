@@ -17,4 +17,4 @@ Todas essas istalações pode ser por unico comando
 Criando pasta pages com um arquivo index.js
 
 Rodando o projeto servidor 
-### run next dev
+### npm run dev
